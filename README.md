@@ -11,7 +11,8 @@ las URLs claras y uniformes
 
 la separación de cliente y servidor: La API no depende de como el cliente (frontend) maneja los datos; simplemente expone los recursos
 
-un formato estandar de respuesta: Las respuestas se envian en formato JSON, siguiendo buenas practicas de interoperabilidad.
+un formato estandar de respuesta: Las respuestas se envian en formato JSON, siguiendo buenas practicas de interoperabilidad
+
 ------------
 
 la diferencia de la de 3 capas, es una aplicacion cliente local (browser + localStorage), la acutal, API REST que expone recursos por HTTP
